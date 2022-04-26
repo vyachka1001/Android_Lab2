@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/search_tracks_action"
+        android:icon="@drawable/ic_baseline_search_24"
+        android:title="@string/search_action"
+        app:actionViewClass="android.widget.SearchView"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/refresh_tracks_action"
+        android:icon="@drawable/ic_baseline_refresh_24"
+        android:title="@string/refresh_action"
+        app:showAsAction="always">
+    </item>
+    <item
+        android:id="@+id/clean_tracks_action"
+        android:icon="@drawable/ic_baseline_clear_24"
+        android:title="@string/clean_action"
+        app:showAsAction="always">
+    </item>
+</menu>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_tracks_chart">
+
+    <fragment
+        android:id="@+id/navigation_tracks_chart"
+        android:name="com.rpodmp.viarbitski.rpodmp2.ui.tracks.TracksChartFragment"
+        android:label="@string/tracks_chart_tab_label"
+        tools:layout="@layout/fragment_tracks_chart" />
+
+    <fragment
+        android:id="@+id/navigation_artists_chart"
+        android:name="com.rpodmp.viarbitski.rpodmp2.ui.artists.ArtistsFragment"
+        android:label="@string/artists_chart_tab_label"
+        tools:layout="@layout/fragment_artists_chart" />
+
+    <fragment
+        android:id="@+id/navigation_profile"
+        android:name="com.rpodmp.viarbitski.rpodmp2.ui.profile.ProfileFragment"
+        android:label="@string/account_tab_label"
+        tools:layout="@layout/fragment_profile" />
+
+    <fragment
+        android:id="@+id/navigation_favourites"
+        android:name="com.rpodmp.viarbitski.rpodmp2.ui.tracks.favourite.FavouriteTracksFragment"
+        android:label="@string/favourites"
+        tools:layout="@layout/fragment_tracks_chart" />
+</navigation>

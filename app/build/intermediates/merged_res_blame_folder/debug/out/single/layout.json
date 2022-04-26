@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/viachaslau/AndroidStudioProjects/android_lab2/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/artist_item.xml",
+        "source": "/home/viachaslau/AndroidStudioProjects/android_lab2/app/src/main/res/layout/artist_item.xml"
+    },
+    {
+        "merged": "/home/viachaslau/AndroidStudioProjects/android_lab2/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/home/viachaslau/AndroidStudioProjects/android_lab2/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/viachaslau/AndroidStudioProjects/android_lab2/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_artists_chart.xml",
+        "source": "/home/viachaslau/AndroidStudioProjects/android_lab2/app/src/main/res/layout/fragment_artists_chart.xml"
+    },
+    {
+        "merged": "/home/viachaslau/AndroidStudioProjects/android_lab2/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_tracks_chart.xml",
+        "source": "/home/viachaslau/AndroidStudioProjects/android_lab2/app/src/main/res/layout/fragment_tracks_chart.xml"
+    },
+    {
+        "merged": "/home/viachaslau/AndroidStudioProjects/android_lab2/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/track_item.xml",
+        "source": "/home/viachaslau/AndroidStudioProjects/android_lab2/app/src/main/res/layout/track_item.xml"
+    },
+    {
+        "merged": "/home/viachaslau/AndroidStudioProjects/android_lab2/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_profile.xml",
+        "source": "/home/viachaslau/AndroidStudioProjects/android_lab2/app/src/main/res/layout/fragment_profile.xml"
+    }
+]

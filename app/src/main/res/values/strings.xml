@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Last.fm</string>
+    <string name="tracks_chart_tab_label">Top tracks</string>
+    <string name="artists_chart_tab_label">Top artists</string>
+    <string name="account_tab_label">Profile</string>
+    <string name="search_action">Search</string>
+    <string name="info_action">Info</string>
+    <string name="refresh_action">Refresh</string>
+    <string name="clean_action">Clean</string>
+
+
+    <string name="email">viachaslauviarbitski@gmail.com</string>
+    <string name="phone">+375(29)1689470</string>
+    <string name="favourites">Favourites</string>
+    <string name="name">Viachaslau Viarbitski</string>
+</resources>

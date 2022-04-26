@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_tracks_chart"
+        android:icon="@drawable/ic_baseline_library_music_24"
+        android:title="@string/tracks_chart_tab_label" />
+
+    <item
+        android:id="@+id/navigation_artists_chart"
+        android:icon="@drawable/ic_baseline_face_24"
+        android:title="@string/artists_chart_tab_label" />
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/ic_baseline_account_circle_24"
+        android:title="@string/account_tab_label" />
+
+</menu>

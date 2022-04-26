@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="description">#a9a9a9</color>
+    <color name="item_name">#535353</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="separator">#E4DADA</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_padding_horizontal">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="ic_delete">30dp</dimen>
+    <dimen name="padd_10">10dp</dimen>
+    <dimen name="padd_20">20dp</dimen>
+    <dimen name="padd_25">25dp</dimen>
+    <dimen name="playcount_image">15dp</dimen>
+    <dimen name="separator">1sp</dimen>
+    <dimen name="sp_10">10sp</dimen>
+    <dimen name="sp_12">12sp</dimen>
+    <dimen name="sp_14">14sp</dimen>
+    <dimen name="sp_40">40sp</dimen>
+    <dimen name="sp_50">50sp</dimen>
+    <dimen name="sp_60">60sp</dimen>
+    <dimen name="sp_70">70sp</dimen>
+    <dimen name="thumbnail">40dp</dimen>
+    <dimen name="widget_margin">8dp</dimen>
+    <string name="account_tab_label">Profile</string>
+    <string name="app_name">Last.fm</string>
+    <string name="artists_chart_tab_label">Top artists</string>
+    <string name="clean_action">Clean</string>
+    <string name="email">viachaslauviarbitski@gmail.com</string>
+    <string name="favourites">Favourites</string>
+    <string name="info_action">Info</string>
+    <string name="name">Viachaslau Viarbitski</string>
+    <string name="phone">+375(29)1689470</string>
+    <string name="refresh_action">Refresh</string>
+    <string name="search_action">Search</string>
+    <string name="tracks_chart_tab_label">Top tracks</string>
+    <style name="Theme.Rpodmp2" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
